@@ -3,4 +3,5 @@ dist/
 .tmp
 logs/
 data
+.example.env
 .env
